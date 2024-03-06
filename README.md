@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @capNmo
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning competitive programming
+- 👀 I love Capitaine Nemo Series by Jules Verne
+- 🌱 I’m currently looking for `remote` and `part-time` job opportunity.
 - 💞️ I’m looking to collaborate on competitive programming
-- 📫 How to reach me codeforces
+- 📫 How to reach me? cap.n3mo@outlook.com 
 
 <!---
 capNmo/capNmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
